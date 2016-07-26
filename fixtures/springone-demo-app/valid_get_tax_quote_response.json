@@ -1,0 +1,14 @@
+{
+  "responseContext" : {
+    "interactionId" : "3456234527333742954",
+    "requestId" : "685334623543452891",
+    "requestReceivedTimestamp" : "2016-07-17T23:00:34.898",
+    "responseGeneratedTimestamp" : "2016-07-17T23:00:36.389",
+    "statusCode" : "0",
+    "statusMessage" : "",
+    "displayMessage" : ""
+  },
+  "returnCode" : "0",
+  "returnMessage" : "",
+  "adapterXmlReply" : "<ObtainItemTaxQuoteResponse><Response><ReturnCode>0000</ReturnCode></Response><Business><BusinessUnit>804690009840</BusinessUnit></Business><Account><TaxTypeIndicator>R</TaxTypeIndicator></Account><Location><Geographical><VertexCode>442451270</VertexCode></Geographical></Location><TaxQuote>6.26</TaxQuote><ItemList><Count>5</Count><Item><Code>!0   </Code><Billing><Charge>0.03</Charge><TaxGroup>10</TaxGroup></Billing></Item><Item><Code>!#   </Code><Billing><Charge>55.96</Charge><TaxGroup>10</TaxGroup></Billing></Item><Item><Code>!!   </Code><Billing><Charge>19.00</Charge><TaxGroup>10</TaxGroup></Billing></Item><Item><Code>!A   </Code><Billing><Charge>14.00</Charge><TaxGroup>10</TaxGroup></Billing></Item><Item><Code>9&lt;   </Code><Billing><Charge>0.52</Charge><TaxGroup>10</TaxGroup></Billing></Item></ItemList></ObtainItemTaxQuoteResponse>"
+}
